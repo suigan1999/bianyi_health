@@ -1,0 +1,8 @@
+com\bianyiit\service\CheckItemServiceImpl.class
+com\bianyiit\dao\OrderSettingDao.class
+com\bianyiit\service\SetmealServiceImpl.class
+com\bianyiit\dao\SetmealDao.class
+com\bianyiit\dao\CheckItemDao.class
+com\bianyiit\service\CheckgroupServiceImp.class
+com\bianyiit\service\OrderSettingServiceImpl.class
+com\bianyiit\dao\CheckgroupDao.class
